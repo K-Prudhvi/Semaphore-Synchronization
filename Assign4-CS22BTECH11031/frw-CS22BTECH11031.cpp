@@ -11,6 +11,8 @@
 using namespace std;
 default_random_engine generator;
 
+// hlo
+
 // Global variables
 int nr, nw, kr, kw;
 int mucs, murem;
